@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1009345554747",
+    "project_id": "ninjacodefest",
+    "storage_bucket": "ninjacodefest.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1009345554747:android:dfaacf89f409a43fef6f1e",
+        "android_client_info": {
+          "package_name": "com.example.ninjacodefest"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1009345554747-d0ns3et0p6n15b46s76ha9mhhsaqlb8u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAyntCQ8DwCkJ_yWu7OxwOX8ZdqkP3H9nM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1009345554747-d0ns3et0p6n15b46s76ha9mhhsaqlb8u.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
